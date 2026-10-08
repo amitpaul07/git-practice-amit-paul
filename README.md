@@ -1,17 +1,37 @@
 # Git Practice Project
 
-## Name
+## Project Overview
 
-Amit Paul
+This project is created to practice Git and GitHub using Python.
 
-## Project Description
+It demonstrates basic version control concepts such as commits, branches, merging, and pushing a project to GitHub.
 
-This project is created to practice Git and GitHub.
+## Author
 
-It demonstrates basic Git commands, commits, branches, merging, and pushing a project to GitHub.
+**Amit Paul**
+
+## Features
+
+- Basic Python program
+- Addition and subtraction calculator
+- Git version control practice
+- Branching and merging workflow
+- GitHub repository management
 
 ## Technologies
 
 - Python
 - Git
 - GitHub
+
+## Project Structure
+
+```text
+git-practice-amit-paul/
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
