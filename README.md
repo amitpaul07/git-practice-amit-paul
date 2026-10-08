@@ -35,3 +35,14 @@ git-practice-amit-paul/
 │   └── utils.py
 └── docs/
     └── project-description.md
+
+## Example Output
+
+```text
+Name: Amit Paul
+Today's Date: 2026-10-08
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+Division by Zero: Error: Cannot divide by zero
