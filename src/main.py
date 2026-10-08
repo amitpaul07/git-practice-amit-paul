@@ -1,6 +1,8 @@
-# Importing date from datetime libraries
 from datetime import date
+from utils import add, subtract
 
-# Printing my name & date
-print("Name: Amit paul")
+print("Name: Amit Paul")
 print("Today's Date:", date.today())
+
+print("Addition:", add(10, 5))
+print("Subtraction:", subtract(10, 5))
