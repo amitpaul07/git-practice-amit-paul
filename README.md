@@ -25,8 +25,6 @@ It demonstrates basic version control concepts such as commits, branches, mergin
 - GitHub
 
 ## Project Structure
-
-```text
 git-practice-amit-paul/
 ├── README.md
 ├── .gitignore
@@ -37,8 +35,6 @@ git-practice-amit-paul/
     └── project-description.md
 
 ## Example Output
-
-```text
 Name: Amit Paul
 Today's Date: 2026-10-08
 Addition: 15
