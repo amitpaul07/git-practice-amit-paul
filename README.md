@@ -45,4 +45,4 @@ Multiplication: 50
 Division: 2.0
 Division by Zero: Error: Cannot divide by zero
 ```
-
+Note: The date shown above is an example. The program displays the current date when executed.
